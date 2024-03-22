@@ -48,7 +48,7 @@ class _InsertarState extends State<Insertar> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Concesionaria de Videojuegos - Insertar',
+        title: Text('Insertar Videojuegos',
             style: TextStyle(color: Colors.limeAccent, fontSize: 15)),
         backgroundColor: Colors.black54,
       ),
